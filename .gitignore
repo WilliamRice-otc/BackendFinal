@@ -1,0 +1,2 @@
+# excludes database.php
+/Model/database.php
