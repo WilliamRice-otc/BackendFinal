@@ -15,16 +15,16 @@
         // include "View/loginform.php";
 
 
-        switch($action){
+        // switch($action){
 
-            case "login":
+        //     case "login":
 
-                break;
+        //         break;
 
-            default: 
-            // include "View/nav.php";
-            include "View/loginform.php";
-        }
+        //     default: 
+        //     // include "View/nav.php";
+        //     include "View/loginform.php";
+        // }
     ?>
     <div id="gameInfo"></div>
     <script>
