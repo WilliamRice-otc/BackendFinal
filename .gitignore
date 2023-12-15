@@ -1,2 +1,3 @@
 # excludes database.php
 /Model/database.php
+upcominggames.sql
